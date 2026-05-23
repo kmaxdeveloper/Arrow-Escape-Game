@@ -1,15 +1,5 @@
 # 🎯 Arrow Escape | Grid Based Puzzle Game Template
 
-<p align="center">
-  <a href="https://discord.gg/QfaRDxcQkM">
-    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="README_ASSETS/dO4Ryr.png" width="25%" />
-</p>
-
 **Arrow Escape** is a complete, plug and play Unity template for building fast, addictive, grid based arrow puzzle games.
 
 Designed for speed, flexibility, and zero setup pain, this package gives you everything needed to prototype or ship a polished puzzle game without building core systems from scratch.
