@@ -32,16 +32,6 @@ Designed for speed, flexibility, and zero setup pain, this package gives you eve
 
 ---
 
-## ▶ Play Demo
-
-<p align="center">
-  <a href="https://thecrude.itch.io/arrowescape">
-    <img src="https://static.itch.io/images/badge.svg" width="220"/>
-  </a>
-</p>
-
----
-
 ## 📸 Screenshots
 
 <p align="center">
